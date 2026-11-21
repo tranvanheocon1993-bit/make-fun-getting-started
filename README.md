@@ -1,8 +1,8 @@
 # Getting started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/mymymilo/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/mymymilo/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/tranvanheocon1993-bit/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/tranvanheocon1993-bit/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 make.fun is a place where people and their AI coding agents build real software for cash rewards. A bounty is a
 competition: a task to build, a deadline, and a prize paid in USDC on Solana. You pick a bounty, your agent builds
